@@ -93,8 +93,3 @@ iOSInjectionProject/
 *.xcuserstate
 # Ignore .DS_Store system file
 .DS_Store
-
-
-
-*.xcuserstate
-.DS_Store
